@@ -1,0 +1,62 @@
+body {
+background-color:rgb(179, 214, 241);
+    }
+text {
+    color: black;
+        font-size: 30px;
+        text-align: justify;
+}
+img{
+    width: 10%;
+    height:auto;
+}
+button{
+    border: 0;
+    
+
+background-color: transparent;
+}
+div.main{
+    border-radius:25px;
+    border: 2px solid #6CACE4;
+}
+.AP{
+    font:serif;
+    size:20em;
+    color:Blue;
+}
+.banner{
+    width:100%;
+    height:500px;
+    position:relative;
+}
+.pf{
+    border-radius:50%;
+    margin-top:-110;
+    position: relative;
+    bottom: 25%;
+}
+.logos{
+    width:auto;
+    height:30px;
+}
+#blanca{
+    background-color: #ffffff;
+}
+#sol{
+    max-width: 10%;
+}
+.textoi{
+    color: black;
+    position: relative;
+    text-align: justify; 
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sol_de_Mayo-Bandera_de_Argentina.svg/2000px-Sol_de_Mayo-Bandera_de_Argentina.svg.png");
+    background-size: 8%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.celeste{
+    background-color: #6CACE4;
+}

@@ -1,0 +1,19 @@
+nombre: Luciano Alejo Santo
+Titulo: Fullstack Developer Jr.
+Certificado de: Argentina Programa
+Estudiante en la UTN
+
+
+
+Experiencia:
+	-transmisor de telegramas electorales para correo argentino en distintos períodos
+		(2019)(2021)
+		Era desplegado en un colegio donde tenía que equipar un especio libre con:
+		•impresora
+		•computadora
+		•modem
+		para poder escanear y enviar los telegramas de todas las mesas del colegio al 
+		finalizar la jornada electoral.
+
+Educación:
+	-
