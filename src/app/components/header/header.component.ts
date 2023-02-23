@@ -9,6 +9,6 @@ export class HeaderComponent {
 title:string='lista de tareas';
 
 toggleAddTask(){
-  console.log("toggleAddTask!");
+  console.log("toggleAddTask!")
 }
 }
