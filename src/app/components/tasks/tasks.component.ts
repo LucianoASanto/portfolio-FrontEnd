@@ -11,13 +11,13 @@ export class TasksComponent {
   tasks : Task[] = [];
 
   constructor(
-    private TaskService: TaskService
+    private taskService: TaskService
       
     
   ){ }
 
   ngOnInit(): void{
-    this.TaskService.getTask().subscribe((tasks)=>[
+    this.taskService.getTask().subscribe((tasks)=>[
       this.tasks = tasks
     ]);
     
