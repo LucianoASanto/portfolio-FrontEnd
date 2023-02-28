@@ -22,4 +22,19 @@ export class TasksComponent {
     ]);
     
   }
+  deleteTask(task: Task){
+    this.taskService.deleteTask(task)
+    .subscribe(()=>[
+      this.tasks = this.tasks.filter( t => t.id !== task.id)
+    ])  
+  }
+  toggleRemainder(task:Task){
+    task.remainder = !task.remainder
+    this.taskService.updateTaskRemainder(task).subscribe();
+  }
+  addTask(task:Task){
+    this.taskService.addTask(task).subscribe((task)=>[
+      this.tasks.push(task)
+    ])
+  }
 }

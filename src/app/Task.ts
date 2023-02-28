@@ -1,6 +1,6 @@
 export interface Task {
     id?: number,    
-    Text: string,
+    text: string,
     day: string,
     remainder:boolean,
 };

@@ -1,34 +1,28 @@
 {
-    "tasks": [
-        {
-        "id": 1,
-        "Text": "terminar primer modulo de angular",
-        "day": "Agosto 5 a las 12:00",
-        "remainder": true
-        },
-        {
-        "id": 2,
-        "Text": "hacer las compras",
-        "day": "agosto 5 a las 17:00",
-        "remainder": true
-        },
-        {
-        "id": 3,
-        "Text": "investigar sobre bootstrap",
-        "day": "agosto 5 a las 19:00",
-        "remainder": false
-        },
-        {
-        "id": 4,
-        "Text": "leer mi libro",
-        "day": "agosto 5 a las 21:00",
-        "remainder": false
-        },
-        {
-            "id":5,
-            "Text": "ir al correo",
-            "day": "agosto 6 a las 8:00",
-            "remainder": false
-        }
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "terminar primer modulo de angular",
+      "day": "Agosto 5 a las 12:00",
+      "remainder": true
+    },
+    {
+      "id": 2,
+      "text": "hacer las compras",
+      "day": "agosto 5 a las 17:00",
+      "remainder": true
+    },
+    {
+      "id": 3,
+      "text": "investigar sobre bootstrap",
+      "day": "agosto 5 a las 19:00",
+      "remainder": false
+    },
+    {
+      "id": 4,
+      "text": "leer mi libro",
+      "day": "agosto 5 a las 21:00",
+      "remainder": false
+    }
+  ]
 }
